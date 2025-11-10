@@ -1,3 +1,3 @@
-# tenant-isolation — commit 5
-# updated: 2025-11-07T22:32:02+00:00
+# email-service — commit 1
+# updated: 2025-11-10T12:57:37+00:00
 app = None
